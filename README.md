@@ -58,20 +58,25 @@ cd wget
 
 > But it's too big and takes a lot of time
 ![screenshot](./screenshots/04.png)
+
 > So, let's take only a part of it, using --depth=1 option
 ![screenshot](./screenshots/05.png)
+
 > Let's clone from other faster repo
 ![screenshot](./screenshots/06.png)
 
 > Continue building
 ![screenshot](./screenshots/07.png)
+
 > Autoconf failed, so we need to install other packages
 ![screenshot](./screenshots/08.png)
 
 >Install additional packages
 ![screenshot](./screenshots/09.png)
+
 >Continue bootstrap
 ![screenshot](./screenshots/10.png)
+
 >Finished, now you can continue with ./configure
 ![screenshot](./screenshots/11.png)
 
