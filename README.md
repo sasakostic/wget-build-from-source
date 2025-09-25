@@ -8,7 +8,7 @@ The name comes from World Wide Web and get.
 
 It was made by our neighbour Hrvoje Nikšić in 1996.
 
-This guide illustrated how the program can be compiled from source. I've tried all this on Ubuntu 24.04.2 LTS on WSL.
+This guide illustrates how the program can be compiled from source. I've tried all this on Ubuntu 24.04.2 LTS on WSL.
 
 This is for educational pursposes only. Ubuntu and many other distributions already come with it installed.
 
