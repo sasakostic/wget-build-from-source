@@ -46,8 +46,7 @@ cd wget
 
 >Bootstrap will probably fail
 
-![screenshot](./screensho
-ts/02-1.png)
+![screenshot](./screenshots/02-1.png)
 
 >Install required additional packages
 
