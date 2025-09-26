@@ -106,7 +106,7 @@ And see the compiled wget executable, marked as green
 ## Run the compiled wget
 ![screenshot](./screenshots/15.png)
 
-## Compare versions of the comipled and already installed wget
+## Compare versions of the compiled and already installed wget
 ![screenshot](./screenshots/19.png)
 ![screenshot](./screenshots/20.png)
 
